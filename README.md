@@ -6,7 +6,7 @@
 
 👨‍🎓 Studied Computer Science at Hunter College
 
-🌱 Currently learning: data analytics/viz, statistics, machine learning, and Python data libraries (SciKit Learn, Matplotlib, Seaborn, etc.)
+🌱 Currently learning: data analytics/viz, statistics, ML, and Python data libraries (SciKit Learn, Matplotlib, Seaborn, etc.)
 
 ✨ When I am not programming I am exploring my other passions, such as: 🖌️digital design, 🏋️fitness, and 👔fashion
 
